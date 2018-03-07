@@ -1,0 +1,7 @@
+Task: core-share
+Section: user
+Description: Lubuntu minimal installation (shared pacakges)
+ This task provides shared packages for minimal installation of Lubuntu.
+Key:
+ core-share
+Packages: task-fields

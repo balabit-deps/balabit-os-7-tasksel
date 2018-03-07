@@ -1,0 +1,9 @@
+Task: vanilla-gnome-desktop
+Section: user
+Description: Vanilla GNOME desktop
+ This task provides a vanilla GNOME desktop environment.
+Key:
+ vanilla-gnome-desktop
+Metapackage: vanilla-gnome-desktop
+Seeds: desktop-common
+Packages: task-fields

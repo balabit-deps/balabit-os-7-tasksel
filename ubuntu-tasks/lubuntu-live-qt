@@ -1,0 +1,10 @@
+Task: lubuntu-live-qt
+Section: user
+Description: Lubuntu live CD (Qt part)
+ This task provides the extra packages installed on the Lubuntu live CD (Qt part). It is neither useful nor recommended to install this task in other environments.
+Relevance: 2
+Key:
+ ubiquity-frontend-qt
+Test-new-install: skip show
+Seeds: live-share
+Packages: task-fields

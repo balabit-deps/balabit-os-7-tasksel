@@ -1,0 +1,8 @@
+Task: lubuntu-desktop-share
+Section: user
+Description: Lubuntu Desktop (shared packages)
+ This task provides the shared packaged for Lubuntu.
+Key:
+ lubuntu-desktop-share
+Seeds: core-share
+Packages: task-fields

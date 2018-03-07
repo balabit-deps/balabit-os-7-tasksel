@@ -1,0 +1,9 @@
+Task: lubuntu-core
+Section: user
+Description: Lubuntu minimal installation
+ This task provides minimal packages for Lubuntu (Ubuntu LXDE environment).
+Key:
+ lubuntu-core
+Metapackage: lubuntu-core
+Seeds: core-gtk core-share
+Packages: task-fields

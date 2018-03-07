@@ -1,0 +1,9 @@
+Task: lubuntu-qt-core
+Section: user
+Description: Lubuntu minimal installation (Qt part)
+ This task provides minimal packages for Lubuntu (Ubuntu LXQt environment).
+Key:
+ lubuntu-qt-core
+Metapackage: lubuntu-qt-core
+Seeds: core-share
+Packages: task-fields

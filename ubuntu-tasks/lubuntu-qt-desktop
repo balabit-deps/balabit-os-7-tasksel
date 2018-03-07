@@ -1,0 +1,9 @@
+Task: lubuntu-qt-desktop
+Section: user
+Description: Lubuntu Qt Desktop (Qt part)
+ This task provides the Lubuntu (Ubuntu LXQt environment).
+Key:
+ lubuntu-qt-desktop
+Metapackage: lubuntu-qt-desktop
+Seeds: desktop-share core-qt
+Packages: task-fields

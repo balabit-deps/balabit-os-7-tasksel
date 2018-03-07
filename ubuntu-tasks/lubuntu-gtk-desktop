@@ -1,0 +1,9 @@
+Task: lubuntu-gtk-desktop
+Section: user
+Description: Lubuntu Desktop (GTK part)
+ This task provides the Lubuntu (Ubuntu LXDE environment).
+Key:
+ lubuntu-gtk-desktop
+Metapackage: lubuntu-gtk-desktop
+Seeds: desktop-share core-gtk
+Packages: task-fields
