@@ -85,4 +85,3 @@ clean:
 	rm -f $(TASKDESC) $(UTASKDESC) *~
 	rm -rf debian/external-overrides
 	$(MAKE) -C po clean
-	$(MAKE) -C $(DESCPO) clean
